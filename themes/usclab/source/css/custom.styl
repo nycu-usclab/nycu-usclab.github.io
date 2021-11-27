@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif+TC:200,300,400,500,600,700,900,200i,300i,400i,500i,600i,700i,900i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i|PT+Serif:400,400i,700,700i&subset=latin,latin-ext");
+
+.container {
+  @media (min-width: 1400px) {
+    max-width: 960px;
+  }
+  @media (min-width: 1200px) {
+    max-width: 960px;
+  }
+}
+
+header {
+  .cover {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    .title {
+      font-family: "Noto Serif TC";
+      font-weight: bold;
+      font-size: 2rem;
+      color: #444444;
+    }
+    .subtitle {
+      color: gray;
+      font-family: "PT Serif", Times, sans-serif;
+    }
+  }
+
+  .navigation {
+    background-color: #0c80a1;
+    .navbar {
+      padding: 0;
+      a {
+        color: white;
+        padding: 1rem !important;
+        font-weight: bold;
+        &:hover {
+          background-color: #085a72;
+          color: white;
+        }
+      }
+      .dot:after{
+        color: #085a72;
+        content: "\2022";
+        display: inline;
+        font-size: 1rem;
+        line-height: 3.5rem;
+      }
+      .dropdown-menu {
+        margin: 0;
+        padding: 0;
+        background-color: #0c80a1;
+        min-width: unset;
+        border: unset;
+        border-radius: unset;
+      }
+    }
+  }
+}
+
+main[class="home"]{
+    .cover {
+        background-image: url('/images/home_cover.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 350px;
+    }
+}
