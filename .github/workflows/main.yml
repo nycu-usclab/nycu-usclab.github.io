@@ -1,0 +1,30 @@
+name: Hexo Build and Deploy
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Cache node modules
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+      - name: Init SSH
+        run: |
+          mkdir -p ~/.ssh/
+          echo "${{secrets.DEPLOY_KEY}}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git config --global user.name "Deploy robot"
+          git config --global user.email "champagne0906@gmail.com"
+      - name: Install package
+        run: |
+          npm install
+      - name: Build & Deploy
+        run: |
+          touch db.json
+          npx hexo deploy -g
