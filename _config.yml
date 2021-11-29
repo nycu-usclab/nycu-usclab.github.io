@@ -99,4 +99,13 @@ deploy:
   type: git
   repo: git@github.com:nycu-usclab/usclab-website.git
   branch: gh-pages
-
+  
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  decodeEntities: false
+  anchor:
+    position: after
+    symbol: '#'
+    style: header-anchor
