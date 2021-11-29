@@ -3,7 +3,7 @@
     <h1><%- page.title %></h1>
     <table id="datatable" class="display"></table>
     <script>
-      Papa.parse("<%- url_for(page.csv) %>", {
+      Papa.parse("index.csv", {
         download: true,
         complete: (result) => {
           const data = result.data;
