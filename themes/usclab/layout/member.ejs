@@ -1,0 +1,28 @@
+<main class="member">
+  <div class="container">
+    <h1><%- page.title %></h1>
+
+    <% page.member.forEach(m => { %>
+    <h2><%- m.role %><span class="fs-5 ms-3"><%- m.role_en %></span></h2>
+    <div class="row">
+      <% m.user.forEach(u => { %>
+      <div class="col-lg-3 col-md-4 col-6">
+        <div class="card w-100 h-100">
+          <div class="card-image" style="background-image: url('<%- u.image %>')"></div>
+          <div class="card-body">
+            <h3 class="card-title"><%- u.name %></h5>
+            <h4 class="fs-6"><%- u.name_en %></h4>
+            <% if (u.phone != undefined) { %>
+            <p><i class="fas fa-phone me-1"></i><%- u.phone %></p>
+            <% } %>
+            <% if (u.content != undefined) { %>
+            <p class="card-text"><%- u.content %></p>
+            <% } %>
+          </div>
+        </div>
+      </div>
+      <% }) %>
+    </div>
+    <% }) %>
+  </div>
+</main>
