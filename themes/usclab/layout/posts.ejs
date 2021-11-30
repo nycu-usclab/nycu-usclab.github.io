@@ -1,0 +1,28 @@
+<main class="posts">
+  <div class="container">
+    <h1><%- page.title %></h1>
+    <table id="datatable" class="display">
+      <thead>
+        <tr>
+          <th>日期</th>
+          <th>標題</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% site.posts.each(p => { %>
+        <tr>
+          <td><%- new Date(p.date).toLocaleDateString() %></td>
+          <td><a href="<%- url_for(p.path) %>"><%- p.title %></a></td>
+        </tr>
+        <% }) %>
+      </tbody>
+    </table>
+    <script>
+      $("#datatable").DataTable({
+        "order": [
+          [0, "desc"]
+        ]
+      });
+    </script>
+  </div>
+</main>
