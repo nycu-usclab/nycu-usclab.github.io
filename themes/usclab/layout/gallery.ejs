@@ -1,17 +1,18 @@
-<main class="gallary">
+<main class="gallery">
   <div class="container">
     <h1><%- page.title %></h1>
     <div class="row">
-      <% page.images.forEach(p => { %>
+      <% gallery().forEach(p => { %>
       <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="<%- p.image %>" target="_blank">
+        <a href="<%- p.path %>" target="_blank">
           <div
             class="pic"
-            style="background-image: url('<%- p.image %>')"
+            style="background-image: url('<%- p.path %>')"
           ></div>
         </a>
+        <% if (page.text != "hide") { %>
         <p class="text-center mt-2"><%- p.name %></p>
-        <p></p>
+        <% } %>
       </div>
 
       <% }) %>
