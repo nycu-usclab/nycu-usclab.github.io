@@ -11,7 +11,7 @@
       <tbody>
         <% site.posts.each(p => { %>
         <tr>
-          <td><%- new Date(p.date).toLocaleDateString() %></td>
+          <td><%- date_format(p.date) %></td>
           <td><a href="<%- url_for(p.path) %>"><%- p.title %></a></td>
         </tr>
         <% }) %>

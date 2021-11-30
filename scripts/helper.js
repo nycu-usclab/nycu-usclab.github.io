@@ -12,3 +12,9 @@ hexo.extend.helper.register("gallery", function () {
   });
   return result;
 });
+
+hexo.extend.helper.register("date_format", function (date) {
+  let dt = new Date(date);
+  dt.setHours(dt.getHours() + 8);
+  return dt.toISOString().split("T")[0].replaceAll("-", "/");
+});

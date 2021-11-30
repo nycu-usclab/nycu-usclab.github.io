@@ -12,7 +12,7 @@
       <tbody>
         <% site.posts.slice(0, 5).each(p => { %>
         <tr>
-          <td><%- new Date(p.date).toLocaleDateString() %></td>
+          <td><%- date_format(p.date) %></td>
           <td><a href="<%- url_for(p.path) %>"><%- p.title %></a></td>
         </tr>
         <% }) %>
@@ -27,7 +27,7 @@
         <h3 class="text-center fs-5">高靈敏度二氧化錫氣體感測器</h3>
         <div
           class="homepic"
-          style="background-image: url('images/1.jpg')"
+          style="background-image: url('/images/home/1.jpg')"
         ></div>
         <p>
           利用二氧化錫的各項優點並結合液相沈積薄膜製程方法與微機電技術，製作出具微小化、高辨識性、高靈敏度、非侵入式與反應時間快之氣體感測器。
@@ -37,7 +37,7 @@
         <h3 class="text-center fs-5">非侵入微晶片式眼壓感測器</h3>
         <div
           class="homepic"
-          style="background-image: url('images/2.jpg')"
+          style="background-image: url('/images/home/2.jpg')"
         ></div>
         <p>
           利用微機電製程技術在軟式隱形眼鏡基材上製作一個新式的非侵入微晶片式眼壓感測器
@@ -47,7 +47,7 @@
         <h3 class="text-center fs-5">微探針電極與電路系統</h3>
         <div
           class="homepic"
-          style="background-image: url('images/3.jpg')"
+          style="background-image: url('/images/home/3.jpg')"
         ></div>
         <p>NA</p>
       </div>
