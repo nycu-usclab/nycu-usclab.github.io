@@ -58,27 +58,20 @@ header {
 
   .navigation {
     background-color: #0c80a1;
+    min-height: 3.5rem;
 
     .navbar {
       padding: 0;
 
       a {
-        color: white;
+        color: white !important;
         padding: 1rem !important;
         font-weight: bold;
 
         &:hover {
           background-color: #085a72;
-          color: white;
+          color: white !important;
         }
-      }
-
-      .dot:after {
-        color: #085a72;
-        content: '\2022';
-        display: inline;
-        font-size: 1rem;
-        line-height: 3.5rem;
       }
 
       .dropdown-menu {
@@ -89,6 +82,10 @@ header {
         border: unset;
         border-radius: unset;
       }
+    }
+
+    .navbar-toggler {
+      margin-top: 0.5rem;
     }
   }
 }
