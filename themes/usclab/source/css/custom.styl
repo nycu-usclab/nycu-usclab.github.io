@@ -94,7 +94,10 @@ header {
   background-image: url('/images/home_cover.jpg');
   background-size: cover;
   background-position: center;
-  min-height: 350px;
+  min-height: 450px;
+  @media (max-width: 768px) {
+    min-height: 350px;
+  }
 }
 
 main {
