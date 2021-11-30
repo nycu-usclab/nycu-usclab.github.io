@@ -6,7 +6,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
 
-  <% var title = page.title + ' - ' + config.title  %>
+  <% var title = (page.title == undefined ? "" : `${page.title} - `) + config.title %>
   <title><%= title %></title>
   <link rel="canonical" href="<%= url.replace(/index\.html$/, '') %>">
   <meta name="description" content="<%= page.description %>">

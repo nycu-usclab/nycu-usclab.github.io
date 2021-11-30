@@ -1,4 +1,70 @@
 <div class="homecover"></div>
 <main class="home">
-
+  <div class="container">
+    <h2 align="center">最新消息</h2>
+    <table id="datatable" class="display">
+      <thead>
+        <tr>
+          <th>日期</th>
+          <th>標題</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% site.posts.slice(0, 5).each(p => { %>
+        <tr>
+          <td><%- new Date(p.date).toLocaleDateString() %></td>
+          <td><a href="<%- url_for(p.path) %>"><%- p.title %></a></td>
+        </tr>
+        <% }) %>
+      </tbody>
+    </table>
+    <div class="d-flex justify-content-end mt-3">
+      <a href="最新消息" class="btn btn-primary">更多最新消息</a>
+    </div>
+    <h2 align="center">研究方向</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <h3 class="text-center fs-5">高靈敏度二氧化錫氣體感測器</h3>
+        <div
+          class="homepic"
+          style="background-image: url('images/1.jpg')"
+        ></div>
+        <p>
+          利用二氧化錫的各項優點並結合液相沈積薄膜製程方法與微機電技術，製作出具微小化、高辨識性、高靈敏度、非侵入式與反應時間快之氣體感測器。
+        </p>
+      </div>
+      <div class="col-md-4">
+        <h3 class="text-center fs-5">非侵入微晶片式眼壓感測器</h3>
+        <div
+          class="homepic"
+          style="background-image: url('images/2.jpg')"
+        ></div>
+        <p>
+          利用微機電製程技術在軟式隱形眼鏡基材上製作一個新式的非侵入微晶片式眼壓感測器
+        </p>
+      </div>
+      <div class="col-md-4">
+        <h3 class="text-center fs-5">微探針電極與電路系統</h3>
+        <div
+          class="homepic"
+          style="background-image: url('images/3.jpg')"
+        ></div>
+        <p>NA</p>
+      </div>
+    </div>
+  </div>
 </main>
+<iframe
+  frameborder="0"
+  scrolling="no"
+  src="https://maps.google.com/maps?q=%E5%9C%8B%E7%AB%8B%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%B8%E5%B7%A5%E7%A8%8B%E4%BA%94%E9%A4%A8&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near"
+  aria-label="國立陽明交通大學工程五館"
+></iframe>
+<script>
+  $("#datatable").DataTable({
+    order: [[0, "desc"]],
+    searching: false,
+    paging: false,
+    info: false,
+  });
+</script>
