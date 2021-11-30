@@ -5,11 +5,12 @@
 # Site
 title: 微系統與控制實驗室 NYCU
 subtitle: ''
-description: ''
+description: '國立陽明交通大學 電機工程學系 微系統與控制實驗室 Micro System Control Lab (μSCLab), Department of Electrical and Computer Engineering, NYCU'
 keywords:
 author: NYCU Usclab
 language: zh-tw
 timezone: ''
+thumbnail: /images/home_cover.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

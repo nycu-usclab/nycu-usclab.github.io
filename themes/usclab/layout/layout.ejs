@@ -9,21 +9,21 @@
   <% var title = (page.title == undefined ? "" : `${page.title} - `) + config.title %>
   <title><%= title %></title>
   <link rel="canonical" href="<%= url.replace(/index\.html$/, '') %>">
-  <meta name="description" content="<%= page.description %>">
+  <meta name="description" content="<%= config.description %>">
   <meta name="keywords" content="<%= config.keywords %>">
   <meta name="author" content="<%- config.author %>">
 
-  <meta property="og:image" content="<%- full_url_for(page.thumbnail) %>">
+  <meta property="og:image" content="<%- full_url_for(config.thumbnail) %>">
   <meta property="og:site_name" content="<%= config.title %>" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="<%= title %>" />
-  <meta property="og:description" content="<%= page.description %>">
+  <meta property="og:description" content="<%= config.description %>">
   <meta property="og:url" content="<%= url.replace(/index\.html$/, '') %>" />
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="<%= title %>">
-  <meta name="twitter:description" content="<%= page.description %>">
-  <meta name="twitter:image" content="<%- full_url_for(page.thumbnail) %>">
+  <meta name="twitter:description" content="<%= config.description %>">
+  <meta name="twitter:image" content="<%- full_url_for(config.thumbnail) %>">
   <meta name="twitter:url" content="<%= url.replace(/index\.html$/, '').replace(/index\.html$/, '') %>" />
 
   <!-- Mobile Specific Metas
