@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif+TC:200,300,400,500,600,700,900,200i,300i,400i,500i,600i,700i,900i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i|PT+Serif:400,400i,700,700i&subset=latin,latin-ext");
+@media (min-width: 1400px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 960px;
+  }
+}
+.title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Noto Serif TC';
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+main:not(.home) h2 {
+  border-bottom: 1px solid #808080;
+  padding-bottom: 0.25rem;
+}
+header .dropdown:hover .dropdown-menu {
+  display: block;
+}
+header .cover {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+header .cover .title {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #444;
+}
+header .cover .subtitle {
+  color: #808080;
+  font-family: 'PT Serif', Times, sans-serif;
+}
+header .navigation {
+  background-color: #0c80a1;
+  min-height: 3.5rem;
+}
+header .navigation .navbar {
+  padding: 0;
+}
+header .navigation .navbar a {
+  color: #fff !important;
+  padding: 1rem !important;
+  font-weight: bold;
+}
+header .navigation .navbar a:hover {
+  background-color: #085a72;
+  color: #fff !important;
+}
+header .navigation .navbar .dropdown-menu {
+  margin: 0;
+  padding: 0;
+  background-color: #0c80a1;
+  min-width: unset;
+  border: unset;
+  border-radius: unset;
+}
+header .navigation .navbar-toggler {
+  margin-top: 0.5rem;
+}
+.homecover {
+  background-image: url("/images/home_cover.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: calc(100vh - 240px);
+}
+@media (max-width: 576px) {
+  .homecover {
+    min-height: 350px;
+  }
+}
+main {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+main #datatable th {
+  white-space: nowrap;
+}
+main #datatable img {
+  max-width: 200px;
+}
+.homepic {
+  padding-bottom: 75%;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.pic {
+  padding-bottom: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.row {
+  --bs-gutter-y: 1.5rem;
+}
+img {
+  max-width: 100%;
+}
+.btn-primary {
+  background-color: #0c80a1 !important;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  opacity: 0.8;
+}
+iframe {
+  width: 100%;
+  height: 60vh;
+}
+footer {
+  background-color: #0c80a1;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+footer .cover .title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+footer .cover .subtitle {
+  font-family: 'PT Serif', Times, sans-serif;
+}
+footer .info p {
+  margin-bottom: 0.5rem;
+}
+.dataTable a {
+  color: #0c80a1;
+  text-decoration: none;
+}
+.card-image {
+  padding-bottom: 100%;
+  background-size: cover;
+  background-position: center;
+}
