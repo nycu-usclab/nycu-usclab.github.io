@@ -84,5 +84,14 @@ member:
         image: images/謝曜聰.png 
       - name: 呂宗翰
         name_en: Lu Zong Han
-        image: images/呂宗翰.png                
+        image: images/呂宗翰.png  
+      - name: 潘明律
+        name_en: Pan Ming Lu
+        image: images/潘明律.png 
+      - name: 陳廷奕
+        name_en: Chen Ting Yi
+        image: images/陳廷奕.png 
+      - name: 李岳珊
+        name_en: Li Yue Shan
+        image: images/李岳珊.png               
 ---
