@@ -9,25 +9,12 @@ member:
         name_en: Yang Ke Yun
         image: images/楊可筠.png
         phone: "#31214"
-      - name: 葉于愷
-        name_en: Ye Yu Kai
-        image: images/葉于愷.png
-        phone: "#31285"
   - role: 博士生
     role_en: PhD Student
     user:
-      - name: 楊自森
-        name_en: Yang Tzu Sen
-        image: images/楊自森.png
       - name: 蔡正偉
         name_en: Tsai Jeng Wei
         image: images/蔡正偉.png
-      - name: 葉冠廷
-        name_en: Ye Guan Ting
-        image: images/葉冠廷.png
-      - name: 嚴謹
-        name_en: Yan Jin
-        image: images/嚴謹.png
   - role: 研究生
     role_en: Graduate Student
     user:
