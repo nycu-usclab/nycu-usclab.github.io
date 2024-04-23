@@ -6,7 +6,7 @@
       Papa.parse("index.csv", {
         download: true,
         complete: (result) => {
-          const data = result.data;
+          const data = result.data.filter(i => i.join() != "")
           const title = data.shift().map((x) => ({ title: x }));
           for (const num in data) {
             for (const key in data[num]) {
