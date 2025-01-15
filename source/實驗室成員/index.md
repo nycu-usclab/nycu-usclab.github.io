@@ -75,7 +75,7 @@ member:
         image: images/姜芷暄.png
       - name: 蘇映如
         name_en: Su Ying Ru
-        image: images/蘇映如.png 
+        image: images/蘇映如.jpg 
       - name: 余睿哲
         name_en: Yu Rui Zhe
         image: images/余睿哲.png 
@@ -93,5 +93,9 @@ member:
         image: images/陳廷奕.png 
       - name: 李岳珊
         name_en: Li Yue Shan
-        image: images/李岳珊.png               
+        image: images/李岳珊.png
+      - name: 邱彥薰
+        name_en: Chiou Yan Shiun
+        image: images/邱彥薰.jpg
+                       
 ---
