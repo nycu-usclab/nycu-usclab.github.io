@@ -97,5 +97,10 @@ member:
       - name: 邱彥薰
         name_en: Chiou Yan Shiun
         image: images/邱彥薰.jpg
-                       
+      - name: 蔡德亮
+        name_en: Tsai De Liang 
+        image: images/蔡德亮.jpg
+      - name: 黃翊寧
+        name_en: Huang Yi Ning
+        image: images/黃翊寧.jpg                
 ---
