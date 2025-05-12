@@ -18,22 +18,6 @@ member:
   - role: 研究生
     role_en: Graduate Student
     user:
-      - name: 吳柏璉
-        name_en: Wu Bo Lian
-        image: images/吳柏璉.png
-      - name: 林青樺
-        name_en: Lin Ching Hua
-        image: images/林青樺.png
-      - name: 徐承佑
-        name_en: Hsu Cheng Yu
-        image: images/徐承佑.png
-      - name: 呂建緯
-        name_en: Lu Chien We
-        image: images/呂建緯.png
-      - name: 陳禮洋
-        name_en: Chen Li Yang
-        image: images/陳禮洋.png
-        content: 大家好
       - name: 張軒瑋
         name_en: Chang Hsuan Wei
         image: images/張軒瑋.png
