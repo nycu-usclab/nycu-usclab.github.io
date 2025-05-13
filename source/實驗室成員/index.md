@@ -18,39 +18,9 @@ member:
   - role: 研究生
     role_en: Graduate Student
     user:
-      - name: 張軒瑋
-        name_en: Chang Hsuan Wei
-        image: images/張軒瑋.png
-      - name: 王翊慈
-        name_en: Wang Yi Tzu
-        image: images/王翊慈.png
-      - name: 樂又瑄
-        name_en: Le Yu Hsuan
-        image: images/樂又瑄.png
-      - name: 黃昱瑄
-        name_en: Huang Yu Shiuan
-        image: images/黃昱瑄.png
-      - name: 陳嘉澍
-        name_en: Chen Jia Shu
-        image: images/陳嘉澍.png
-      - name: 李竹祐
-        name_en: Li Chu Yu
-        image: images/李竹祐.png
-      - name: 郭誠
-        name_en: Guo Cheng
-        image: images/郭誠.png
-      - name: 吳斐恩
-        name_en: Wu Fei En
-        image: images/吳斐恩.png
       - name: 巫傑能
         name_en: Wu Jie Neng
         image: images/巫傑能.png
-      - name: 陳韋翔
-        name_en: Chen Wei Shiang
-        image: images/陳韋翔.png
-      - name: 江宏文
-        name_en: Jiang Hung Wen
-        image: images/江宏文.png
       - name: 林芝毅
         name_en: Lin Chih Yi
         image: images/林芝毅.png
