@@ -56,5 +56,17 @@ member:
         image: images/蔡德亮.jpg
       - name: 黃翊寧
         name_en: Huang Yi Ning
-        image: images/黃翊寧.jpg                
+        image: images/黃翊寧.jpg
+      - name: 王凱立
+        name_en: Wang Kai Li
+        image: images/王凱立.jpg
+      - name: 吳謹君
+        name_en: Wu Chin Chun
+        image: images/吳謹君.jpg
+      - name: 洪秉旭
+        name_en: Hung Ping Hsu
+        image: images/洪秉旭.jpg
+      - name: 倪世樺
+        name_en: Ni Shih Hua
+        image: images/倪世樺.jpg
 ---
