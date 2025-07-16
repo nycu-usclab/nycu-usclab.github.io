@@ -10,7 +10,7 @@
         </tr>
       </thead>
       <tbody>
-        <% site.posts.slice(0, 5).each(p => { %>
+        <% site.posts.slice('date', -1).each(p => { %>
         <tr>
           <td><%- date_format(p.date) %></td>
           <td><a href="<%- url_for(p.path) %>"><%- p.title %></a></td>
