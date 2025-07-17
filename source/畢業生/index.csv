@@ -1,128 +1,112 @@
-#,學位,姓名,論文
-1,M.S.,"楊先巧
-","Design Fabrication,and Measurement of Contact Lenses with Multifuntional Sensor for Dry Eye "
-2,M.S.,"林澤媺
-",
-3,"M.S
-","謝承恩
-","Thin-Film Supercapacitor for Smart Contact Lens Applications: Design, Fabrication and Measurement"
-4,M.S.,"張世承
-","Design,Fabrication and Verification of Gas Sensor System based on MWCNT/Polymer Composite"
-5,M.S.,莊凡頡,A RFID-based Portable Wireless Recorder for Eye Healthcare Monitoring
-6,M.S.,游彥暉,"Design,Fabracation and Verification of High Relaibility Flexible ECoG Electrode for Auditory Evoke Potentials Measurement"
-7,"Ph.D
-","徐舜熙
-","Design, Fabrication, and Verification of Wireless Smart Contact Len System for Eye Healthcare Applications"
-8,M.S.,蕭孟岳,A Monolithic Neural Sensor Integrated with Flexible Surface and Depth Electrode Array
-9,"M.S.
-","桂承楷
-","Design, Fabrication and Measurement of RFID Tag for Intraocular Pressure Monitoring"
-10,M.S.,吳宗瑋,"The Study of Fabrication Feasibility,Packaging and Measurement of Contact Lense with Capacitor Sensor for Intracular Pressure Monitoring"
-11,M.S.,陳昇泰,"Design,Fabrication and Test of capacitive humidity sensor based on HEMA film"
-12,M.S.,余昕懋,Study of doping catalyst on gas sensor with micro-jet system
-13,M.S.,周雷峻,The Study of TSV-Based u-Probe Array for High Quality Nerual Signal Recording
-14,M.S.,葉冠廷,Design Fabrication and Measurement of Contact Lenses with Capacitor Sensor for Intraocular Pressure Monitoring
-15,M.S.,"戴凱勛
-","Design, Fabrication and Measurement of Contact Lenses with Capacitor Sensor for Eyelid Pressure"
-16,M.S.,邱健豪,Dual-channel Non-invasive Brain Single Detection NIRS System Implementation
-17,M.S.,"洪偉哲
-",Development of Algorithm for Single Gas Sensor Detecting Multi-gas
-18,M.S.,"葉韋麟
-",Development of Brain -Computer Interface with Optimal Channel for Neuro-Rehabilitation
-19,M.S.,"劉威廷
-","Design, Fabrication and Measurement of Contact Lenses with Capacitor Sensor for Eyelid Pressure"
-20,M.S.,陳欣壯,"Using Leakage Feedback Element in Low Noise Front-end Amplifier by Pseudo Resistor for Neural Recording Applications IC
-"
-17,M.S.,"張淙豪
-","Design, Analysis and Fabrication of Contact Lenses with Flexible Thin-film Inductor"
-22,M.S,張天福,The Study of Nero-rehabilitation Using Wireless Single Channel EEG Device
-23,M.S,陳彥璋,Development of Wireless Multichannel Microsystem for Neural Recording in Freely Moving Rat
-24,Ph.D,洪振鈞,"Design, Implementation and Integration of Novel Micro Actuators for Optical MEMS Applications"
-25,M.S,黃彥期,"Design, Implementation and Measurement of a MEMS Type Gas Sensor with SnO2 Sensing Film Prepared by Liquid Phase Deposition Method"
-26,M.S,王詠鋒,MEMS based Flexible Surface Electrode for ECoG Measurement
-27,M.S,洪聖昕,Spiral coils as a wireless power module for bio-potentialsensing application.
-28,M.S.,何檀均,"A low power, low noise, multi-channel AFE amplifier for bio-potential sensing application"
-29,M.S.,洪孟濤,Hilbert-Haung Transform(HHT)
-30,M.S.,鄭煥騰,Design Circular Polarization antenna in 2.4Ghz(ISM band)
-31,M.S.,林如錚,Gas sensor (Wire Bonding and Suspended)
-32,M.S.,劉柏青,Non contact Respiration and Heartbeat Detector
-33,M.S.,姚博熙,The Modeling and Biomechanical Analysis of Human Cornea for Non-contact Intraocular Pressure Measurement
-34,M.S.,周俊仲,The Study of Chopper-stabilized Differential-difference Amplifier based Physiological Sensing System
-35,M.S.,鄒慶華,The Development of Lead-Patch Wireless 12-Lead Electrocardiograph System
-36,M.S.,蔡櫂隆,Electro-Static Light Phase Shifter Array
-37,M.S.,陳志良,Motion Controller Design by Using QFT/H∞ Theorem for a Diamond-shaped Narrow Tilting Vehicle
-38,Ph.D,郭秦輔,The Implementation of Cascade Electrostatic CMOS-MEMS Comb-Drive Actuator
-39,M.S.,盧秉洋,The Study of a Fabrication of High Aspect Ratio Silicon Microstructures By Wet Etching
-40,M.S.,林建賢,A Low Voltage And Low Power Thermal Infrared Ray Temperature Sensing Device
-41,M.S.,倪嘉宏,A Dual-Axis Gyro Sensor based Mouse for Human-Machine Interface Application
-42,M.S.,劉亞書,Research of Gas Sensing with Deposition of Tin Oxide Thin Film by Liquid Phase Deposition
-43,M.S.,陳一帆,The Development of Light Transmission Improving Microprobe Array for Oxygen Saturation Measurement
-44,M.S.,邱國元,The Development of 12 Lead Electrocardiograph
-45,Ph.D,林永峻,"The Design, Analysis, Fabrication and Application of Large Stroke Electrostatic Vertical MEMS Actuator"
-46,M.S.,劉修權,A Non-invasive Physiological Signal Detection by Near Infrared Spectroscopy
-47,M.S.,楊子毅,The study of pattern extraction and recognition based on finger-vein and palm-print
-48,M.S.,施文凱,The Study of Anti-Shaking Servo System by Using QFT/H∞ Robust Control Theorem
-49,M.S.,王修涵,EOG based Eye Mouse for Human-Machine Interface Applications
-50,M.S.,劉祐任,A low-power low-noise CMOS AFE IC
-51,M.S.,張志瑋,MEMS based Spiked Dry Electrode for EEG Measurement
-52,M.S.,黃彥凱,The Design and Analysis of Micro-Mirror Measurement System
-53,M.S.,徐俊凱,"The Test, Simulation and Improvement of Differential Capacitive Sensing Circuit"
-54,M.S.,林彥廷,Servo Controller Design of Optical Pickup Using QFT/ H∞ Control Theorem
-55,M.S.,林立堂,A non-invasive Physiological Signal Detection by Near Infrared Spectroscopy
-56,Ph.D,林育成,The Design and Development of Surface-Micromachined Micro-mirror Devices for Optical Switching Applications
-57,Ph.D,林煒廷,The Fabrication of Optical Communication Components Using MEMS Technology
-58,Ph.D,柯春旭,Design and Fabrication of an Efficient Magnetic Microactuator
-59,M.S.,洪哲逸,Micro Electromechanical base VCO
-60,M.S.,范聖武,The Study and Design of Capacitive Fingerprint Chip
-61,M.S.,黃柄逢,The Study of Tracking Servo in Optical System by Using Minimum Variance Control
-62,M.S.,葉俊廷,The Study and Design of Elctronic Ballast Controller
-63,M.S.,毛志強,"The Design, Simulation and Fabrication of Differential Capacitive Sensing Circuits of Micro Gyroscoper"
-64,M.S.,王政斌,The Study and Design of Capacitive Fingerprint Chip
-65,M.S.,張智維,"The Design, Analysis and Fabrication of Capacitive Micro Accelerometer"
-66,M.S.,楊任航,"Design, Simulation, and Fabrication of Electrostatic Micropump Implemented by ICP High Aspect Ratio Etch"
-67,M.S.,沈葦倫,Applying Integrated GPS/INS System in Real-Time Vehicle Navigation
-68,M.S.,吳兆軒,"The Design, Simulation and Fabrication of CMOS Sensing Circuits of Capacitive Micro Accelerometer"
-69,M.S.,蘇煜仁,An RF VCO with Micromachined Tunable Capacitor Using Multiple Electrostatic Driving Electrodes
-70,M.S.,黃士銓,Research on Gray Scale Face Recognition
-71,M.S.,陳忠君,The Study of circuitry of Vibrating Microgyroscope
-72,M.S.,徐舜熙,"Fundamental concepts, Analysis, and Implementation of MEMS Based Band-pass"
-73,M.S.,林高生,The Fabrication of Attitude Control and Safety Released Devices for Crane's Payload
-74,M.S.,羅丕霖,The Fast Lock ADDLL System Uses Asynchronous Time Mapping Tracking
-75,M.S.,陳俊成,"The Design, Analysis and Simulation of Capacitive Micro Accelerometer System and Sensing Circuits"
-76,M.S.,黃俊宏,The Design of Three-layer Polysilicon Capacitor Applied to Voltage-Controlled Oscillator
-77,M.S.,郭子瑋,Development of Software System for Set-Top Box
-78,M.S.,莊新來,"The Integration and Application of IA Using PDA , WAP and Phone"
-79,M.S.,李宜霖,The Design of LED Display using Flat Surface Rotating Mechanism
-80,M.S.,陳燦銘,The Design of Information Appliance System Using STB
-81,M.S.,黃文俊,Portable Infrared Bar Code Reader
-82,M.S.,韓承諺,Rapid Spacecraft Attitude Tracking Maneuvers Using Sliding-Mode Control
-83,M.S.,盧世茂,The Design and Simulation of Electrically Driven Stewart Platform
-84,M.S.,洪集茂,Design of Constant Temperature Circuits and Spice Model for Thermistors
-85,M.S.,陳建揚,The Design and Manufacture of Scanning Mechanisms for Large LED Display
-86,M.S.,蕭文豪,The Development of Remote Control Safety Released Device for Crane's Payload
-87,M.S.,曾仲年,The study of Seeking Control Design of CD-ROM by using Disturbance Observer
-88,M.S.,張伊甄,The Study of Laser Scanning Micromirror Device for 2D Display
-89,Ph.D,吳順德,Constraint Violation Stabilization Using Control Theory in Multibody Dynamic Analysis
-90,Ph.D,楊俊勇,Fuzzy Logic Modeling Algorithm Based on Cluster Estimation Method
-91,M.S.,林育成,"The Design, Analysis and Testing of Three-layer Polysilicon Scanning Micromirror System(龍騰論文獎)"
-92,M.S.,林世平,Study of Dual-Actuator Servo System of CD-ROM Driver
-93,M.S.,陳全豐,"The Design, Analysis and Testing of Three-Layer Polysilicon One Shot Micro Accelerometer"
-94,M.S.,張煒東,Vibration Suppression of Three-Axis Tower Crane
-95,M.S.,余志誠,"The Fabrication, Analysis and Research of Three-layer Polysilicon Thermal Microactuators and Micro-sliding System"
-96,M.S.,費立平,System Design of Mobile Robot Teleoperation with Virtual Reality Technology
-97,M.S.,黃仁宏,The Study of Track-crossing Miscount Detection and Coarse Actuator Servo System of the CD-ROM Drive
-98,M.S.,李訓賢,Vibration Suppression of Tower Crane Maneuvers and Attitude Control of Its Payload
-99,M.S.,張耀帆,Combined Sliding-Mode and Linear Matrix Inequality Theory in Application to Magnetic Levitation Control
-100,M.S.,劉志鵬,Global Robust Flight Controller Design with Pole Placement Constraints: An LMI Approach
-101,M.S.,高志宏,Robust Control of Nonlinear Dynamic System Using Variable Structure Control and Fuzzy Logic
-102,M.S.,邱友霖,Detailed Designed and Analysis of an Overturn Warning Device for Forklift Truck
-103,M.S.,胡柏頌,The Dynamic Analysis of Three-layer Polysilicon Lazy-tongs Microstructure with Comb-drive Actuator
-104,M.S.,楊宇助,The Study of Variable Bit Rate Readout and Spindle Motor Servo Control of CD-ROM Systems(龍騰論文獎)
-105,M.S.,謝傑志,Design of Dual Axis Rotational Sensor
-106,M.S.,王鎮國,Process Optimization of CVD Epitaxial Deposition Using Modified Genetic Algorithms
-107,M.S.,謝成德,Gain Scheduling of Flight Control System with Fuzzy Logic Model
-108,M.S.,盧啟富,Fuzzy Logic Models with Adaptive Learning Rates and Genetic Algorithm for Thermally Based Microelectronic Manufacturing Process
-109,M.S.,陳臨福,CVD Epitaxial Deposition in a Vertical Barrel Reactor: Process Modeling Using Fuzzy Logic Models
-110,M.S.,王中呈,Study for the Brushless Spindle DC Motor of a High-Speed CD-ROM Drive(中華民國專利新型第一二六七七六號)
-111,M.S.,林佳雯,A Discrete Angular Momentum-Conserving Algorithm for Spacecraft Dynamic Analysis
-112,
+學位,姓名,論文
+M.S.,楊先巧,"Design Fabrication,and Measurement of Contact Lenses with Multifuntional Sensor for Dry Eye"
+M.S.,林澤媺,
+M.S.,謝承恩,"Thin-Film Supercapacitor for Smart Contact Lens Applications: Design, Fabrication and Measurement"
+M.S.,張世承,"Design,Fabrication and Verification of Gas Sensor System based on MWCNT/Polymer Composite"
+M.S.,莊凡頡,A RFID-based Portable Wireless Recorder for Eye Healthcare Monitoring
+M.S.,游彥暉,"Design,Fabracation and Verification of High Relaibility Flexible ECoG Electrode for Auditory Evoke Potentials Measurement"
+Ph.D,徐舜熙,"Design, Fabrication, and Verification of Wireless Smart Contact Len System for Eye Healthcare Applications"
+M.S.,蕭孟岳,A Monolithic Neural Sensor Integrated with Flexible Surface and Depth Electrode Array
+M.S.,桂承楷,"Design, Fabrication and Measurement of RFID Tag for Intraocular Pressure Monitoring"
+M.S.,吳宗瑋,"The Study of Fabrication Feasibility,Packaging and Measurement of Contact Lense with Capacitor Sensor for Intracular Pressure Monitoring"
+M.S.,陳昇泰,"Design,Fabrication and Test of capacitive humidity sensor based on HEMA film"
+M.S.,余昕懋,Study of doping catalyst on gas sensor with micro-jet system
+M.S.,周雷峻,The Study of TSV-Based u-Probe Array for High Quality Nerual Signal Recording
+M.S.,葉冠廷,Design Fabrication and Measurement of Contact Lenses with Capacitor Sensor for Intraocular Pressure Monitoring
+M.S.,戴凱勛,"Design, Fabrication and Measurement of Contact Lenses with Capacitor Sensor for Eyelid Pressure"
+M.S.,邱健豪,Dual-channel Non-invasive Brain Single Detection NIRS System Implementation
+M.S.,洪偉哲,Development of Algorithm for Single Gas Sensor Detecting Multi-gas
+M.S.,葉韋麟,Development of Brain -Computer Interface with Optimal Channel for Neuro-Rehabilitation
+M.S.,劉威廷,"Design, Fabrication and Measurement of Contact Lenses with Capacitor Sensor for Eyelid Pressure"
+M.S.,陳欣壯,Using Leakage Feedback Element in Low Noise Front-end Amplifier by Pseudo Resistor for Neural Recording Applications IC
+M.S.,張淙豪,"Design, Analysis and Fabrication of Contact Lenses with Flexible Thin-film Inductor"
+M.S.,張天福,The Study of Nero-rehabilitation Using Wireless Single Channel EEG Device
+M.S.,陳彥璋,Development of Wireless Multichannel Microsystem for Neural Recording in Freely Moving Rat
+Ph.D,洪振鈞,"Design, Implementation and Integration of Novel Micro Actuators for Optical MEMS Applications"
+M.S.,黃彥期,"Design, Implementation and Measurement of a MEMS Type Gas Sensor with SnO2 Sensing Film Prepared by Liquid Phase Deposition Method"
+M.S.,王詠鋒,MEMS based Flexible Surface Electrode for ECoG Measurement
+M.S.,洪聖昕,Spiral coils as a wireless power module for bio-potentialsensing application.
+M.S.,何檀均,"A low power, low noise, multi-channel AFE amplifier for bio-potential sensing application"
+M.S.,洪孟濤,Hilbert-Haung Transform(HHT)
+M.S.,鄭煥騰,Design Circular Polarization antenna in 2.4Ghz(ISM band)
+M.S.,林如錚,Gas sensor (Wire Bonding and Suspended)
+M.S.,劉柏青,Non contact Respiration and Heartbeat Detector
+M.S.,姚博熙,The Modeling and Biomechanical Analysis of Human Cornea for Non-contact Intraocular Pressure Measurement
+M.S.,周俊仲,The Study of Chopper-stabilized Differential-difference Amplifier based Physiological Sensing System
+M.S.,鄒慶華,The Development of Lead-Patch Wireless 12-Lead Electrocardiograph System
+M.S.,蔡櫂隆,Electro-Static Light Phase Shifter Array
+M.S.,陳志良,Motion Controller Design by Using QFT/H∞ Theorem for a Diamond-shaped Narrow Tilting Vehicle
+Ph.D,郭秦輔,The Implementation of Cascade Electrostatic CMOS-MEMS Comb-Drive Actuator
+M.S.,盧秉洋,The Study of a Fabrication of High Aspect Ratio Silicon Microstructures By Wet Etching
+M.S.,林建賢,A Low Voltage And Low Power Thermal Infrared Ray Temperature Sensing Device
+M.S.,倪嘉宏,A Dual-Axis Gyro Sensor based Mouse for Human-Machine Interface Application
+M.S.,劉亞書,Research of Gas Sensing with Deposition of Tin Oxide Thin Film by Liquid Phase Deposition
+M.S.,陳一帆,The Development of Light Transmission Improving Microprobe Array for Oxygen Saturation Measurement
+M.S.,邱國元,The Development of 12 Lead Electrocardiograph
+Ph.D,林永峻,"The Design, Analysis, Fabrication and Application of Large Stroke Electrostatic Vertical MEMS Actuator"
+M.S.,劉修權,A Non-invasive Physiological Signal Detection by Near Infrared Spectroscopy
+M.S.,楊子毅,The study of pattern extraction and recognition based on finger-vein and palm-print
+M.S.,施文凱,The Study of Anti-Shaking Servo System by Using QFT/H∞ Robust Control Theorem
+M.S.,王修涵,EOG based Eye Mouse for Human-Machine Interface Applications
+M.S.,劉祐任,A low-power low-noise CMOS AFE IC
+M.S.,張志瑋,MEMS based Spiked Dry Electrode for EEG Measurement
+M.S.,黃彥凱,The Design and Analysis of Micro-Mirror Measurement System
+M.S.,徐俊凱,"The Test, Simulation and Improvement of Differential Capacitive Sensing Circuit"
+M.S.,林彥廷,Servo Controller Design of Optical Pickup Using QFT/ H∞ Control Theorem
+M.S.,林立堂,A non-invasive Physiological Signal Detection by Near Infrared Spectroscopy
+Ph.D,林育成,The Design and Development of Surface-Micromachined Micro-mirror Devices for Optical Switching Applications
+Ph.D,林煒廷,The Fabrication of Optical Communication Components Using MEMS Technology
+Ph.D,柯春旭,Design and Fabrication of an Efficient Magnetic Microactuator
+M.S.,洪哲逸,Micro Electromechanical base VCO
+M.S.,范聖武,The Study and Design of Capacitive Fingerprint Chip
+M.S.,黃柄逢,The Study of Tracking Servo in Optical System by Using Minimum Variance Control
+M.S.,葉俊廷,The Study and Design of Elctronic Ballast Controller
+M.S.,毛志強,"The Design, Simulation and Fabrication of Differential Capacitive Sensing Circuits of Micro Gyroscoper"
+M.S.,王政斌,The Study and Design of Capacitive Fingerprint Chip
+M.S.,張智維,"The Design, Analysis and Fabrication of Capacitive Micro Accelerometer"
+M.S.,楊任航,"Design, Simulation, and Fabrication of Electrostatic Micropump Implemented by ICP High Aspect Ratio Etch"
+M.S.,沈葦倫,Applying Integrated GPS/INS System in Real-Time Vehicle Navigation
+M.S.,吳兆軒,"The Design, Simulation and Fabrication of CMOS Sensing Circuits of Capacitive Micro Accelerometer"
+M.S.,蘇煜仁,An RF VCO with Micromachined Tunable Capacitor Using Multiple Electrostatic Driving Electrodes
+M.S.,黃士銓,Research on Gray Scale Face Recognition
+M.S.,陳忠君,The Study of circuitry of Vibrating Microgyroscope
+M.S.,徐舜熙,"Fundamental concepts, Analysis, and Implementation of MEMS Based Band-pass"
+M.S.,林高生,The Fabrication of Attitude Control and Safety Released Devices for Crane's Payload
+M.S.,羅丕霖,The Fast Lock ADDLL System Uses Asynchronous Time Mapping Tracking
+M.S.,陳俊成,"The Design, Analysis and Simulation of Capacitive Micro Accelerometer System and Sensing Circuits"
+M.S.,黃俊宏,The Design of Three-layer Polysilicon Capacitor Applied to Voltage-Controlled Oscillator
+M.S.,郭子瑋,Development of Software System for Set-Top Box
+M.S.,莊新來,"The Integration and Application of IA Using PDA , WAP and Phone"
+M.S.,李宜霖,The Design of LED Display using Flat Surface Rotating Mechanism
+M.S.,陳燦銘,The Design of Information Appliance System Using STB
+M.S.,黃文俊,Portable Infrared Bar Code Reader
+M.S.,韓承諺,Rapid Spacecraft Attitude Tracking Maneuvers Using Sliding-Mode Control
+M.S.,盧世茂,The Design and Simulation of Electrically Driven Stewart Platform
+M.S.,洪集茂,Design of Constant Temperature Circuits and Spice Model for Thermistors
+M.S.,陳建揚,The Design and Manufacture of Scanning Mechanisms for Large LED Display
+M.S.,蕭文豪,The Development of Remote Control Safety Released Device for Crane's Payload
+M.S.,曾仲年,The study of Seeking Control Design of CD-ROM by using Disturbance Observer
+M.S.,張伊甄,The Study of Laser Scanning Micromirror Device for 2D Display
+Ph.D,吳順德,Constraint Violation Stabilization Using Control Theory in Multibody Dynamic Analysis
+Ph.D,楊俊勇,Fuzzy Logic Modeling Algorithm Based on Cluster Estimation Method
+M.S.,林育成,"The Design, Analysis and Testing of Three-layer Polysilicon Scanning Micromirror System(龍騰論文獎)"
+M.S.,林世平,Study of Dual-Actuator Servo System of CD-ROM Driver
+M.S.,陳全豐,"The Design, Analysis and Testing of Three-Layer Polysilicon One Shot Micro Accelerometer"
+M.S.,張煒東,Vibration Suppression of Three-Axis Tower Crane
+M.S.,余志誠,"The Fabrication, Analysis and Research of Three-layer Polysilicon Thermal Microactuators and Micro-sliding System"
+M.S.,費立平,System Design of Mobile Robot Teleoperation with Virtual Reality Technology
+M.S.,黃仁宏,The Study of Track-crossing Miscount Detection and Coarse Actuator Servo System of the CD-ROM Drive
+M.S.,李訓賢,Vibration Suppression of Tower Crane Maneuvers and Attitude Control of Its Payload
+M.S.,張耀帆,Combined Sliding-Mode and Linear Matrix Inequality Theory in Application to Magnetic Levitation Control
+M.S.,劉志鵬,Global Robust Flight Controller Design with Pole Placement Constraints: An LMI Approach
+M.S.,高志宏,Robust Control of Nonlinear Dynamic System Using Variable Structure Control and Fuzzy Logic
+M.S.,邱友霖,Detailed Designed and Analysis of an Overturn Warning Device for Forklift Truck
+M.S.,胡柏頌,The Dynamic Analysis of Three-layer Polysilicon Lazy-tongs Microstructure with Comb-drive Actuator
+M.S.,楊宇助,The Study of Variable Bit Rate Readout and Spindle Motor Servo Control of CD-ROM Systems(龍騰論文獎)
+M.S.,謝傑志,Design of Dual Axis Rotational Sensor
+M.S.,王鎮國,Process Optimization of CVD Epitaxial Deposition Using Modified Genetic Algorithms
+M.S.,謝成德,Gain Scheduling of Flight Control System with Fuzzy Logic Model
+M.S.,盧啟富,Fuzzy Logic Models with Adaptive Learning Rates and Genetic Algorithm for Thermally Based Microelectronic Manufacturing Process
+M.S.,陳臨福,CVD Epitaxial Deposition in a Vertical Barrel Reactor: Process Modeling Using Fuzzy Logic Models
+M.S.,王中呈,Study for the Brushless Spindle DC Motor of a High-Speed CD-ROM Drive(中華民國專利新型第一二六七七六號)
+M.S.,林佳雯,A Discrete Angular Momentum-Conserving Algorithm for Spacecraft Dynamic Analysis
