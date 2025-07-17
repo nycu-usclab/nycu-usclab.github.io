@@ -11,7 +11,14 @@
           headers.unshift("#");
           const title = headers.map((x) => ({ title: x }));
           const data = raw.map((row, i) => [i + 1, ...row]);
-
+          for (const row of data) {
+            for (let i = 1; i < row.length; i++) {
+              const cell = row[i];
+              if (typeof cell === "string" && cell.includes("images")) {
+                row[i] = `<a href="${cell}" target="_blank"><img src="${cell}" /></a>`;
+              }
+            }
+          }
           $.fn.dataTable.ext.errMode = 'none';
           $("#datatable").DataTable({
             data: data,
