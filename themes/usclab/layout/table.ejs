@@ -6,8 +6,11 @@
       Papa.parse("index.csv", {
         download: true,
         complete: (result) => {
-          const data = result.data.filter(i => i.join() != "")
-          const title = data.shift().map((x) => ({ title: x }));
+          const raw = result.data.filter(i => i.join() != "");
+          const headers = raw.shift();
+          headers.unshift("#");
+          const title = headers.map((x) => ({ title: x }));
+          const data = raw.map((row, i) => [i + 1, ...row]);
           for (const num in data) {
             for (const key in data[num]) {
               if (data[num][key].includes("images")) {
