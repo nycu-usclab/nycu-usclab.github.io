@@ -10,7 +10,7 @@
           for (const num in raw) {
             for (const key in raw[num]) {
               if (raw[num][key].includes("images")) {
-                raw[num][key] = <a href="${raw[num][key]}" target="_blank" ><img src="${raw[num][key]}" /></a>;
+                raw[num][key] = `<a href="${raw[num][key]}" target="_blank" ><img src="${raw[num][key]}" /></a>`;
               }
             }
           }
