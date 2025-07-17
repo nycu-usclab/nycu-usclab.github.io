@@ -7,12 +7,7 @@
         download: true,
         complete: (result) => {
           const data = result.data.filter(i => i.join() != "")
-          const headers = data.shift()
-          headers.unshift("#")
           const title = data.shift().map((x) => ({ title: x }));
-          const data = raw.map((row, i) => {
-            return [i + 1, ...row];
-          });
           for (const num in data) {
             for (const key in data[num]) {
               if (data[num][key].includes("images")) {
