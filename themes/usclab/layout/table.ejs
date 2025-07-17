@@ -11,13 +11,7 @@
           headers.unshift("#");
           const title = headers.map((x) => ({ title: x }));
           const data = raw.map((row, i) => [i + 1, ...row]);
-          for (const num in data) {
-            for (const key in data[num]) {
-              if (typeof data[num][key] === "string" && data[num][key].includes("images")) {
-                data[num][key] = `<a href="${data[num][key]}" target="_blank"><img src="${data[num][key]}" /></a>`;
-              }
-            }
-          }
+
           $.fn.dataTable.ext.errMode = 'none';
           $("#datatable").DataTable({
             data: data,
