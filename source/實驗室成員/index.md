@@ -24,9 +24,6 @@ member:
       - name: 林芝毅
         name_en: Lin Chih Yi
         image: images/林芝毅.png
-      - name: 姜芷暄
-        name_en: Jiang Zhi Xuan
-        image: images/姜芷暄.png
       - name: 蘇映如
         name_en: Su Ying Ru
         image: images/蘇映如.jpg 
