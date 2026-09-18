@@ -43,7 +43,7 @@ member:
         name_en: Ni Shih Hua
         image: images/倪世樺.jpg
       - name: 莊弘翊​
-        name_en: Zhuang Hong-Yi​
+        name_en: Zhuang Hong Yi​
         image: images/莊弘翊​.jpg
       - name: 蔡丞幃
         name_en: 
