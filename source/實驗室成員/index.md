@@ -52,7 +52,7 @@ member:
         name_en: Hsieh Chun Che
         image: images/謝鈞哲.jpg
       - name: 楊子儀
-        name_en: 
+        name_en: Yang Tz Yi
         image: images/楊子儀.jpg
       - name: 陳芊妤​
         name_en: 
