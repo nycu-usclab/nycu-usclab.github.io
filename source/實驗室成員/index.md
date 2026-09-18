@@ -18,21 +18,9 @@ member:
   - role: 研究生
     role_en: Graduate Student
     user:
-      - name: 林芝毅
-        name_en: Lin Chih Yi
-        image: images/林芝毅.png
-      - name: 余睿哲
-        name_en: Yu Rui Zhe
-        image: images/余睿哲.png 
-      - name: 謝曜聰
-        name_en: Xie Yao Cong
-        image: images/謝曜聰.png 
       - name: 潘明律
         name_en: Pan Ming Lu
-        image: images/潘明律.png 
-      - name: 李岳珊
-        name_en: Li Yue Shan
-        image: images/李岳珊.png
+        image: images/潘明律.png
       - name: 邱彥薰
         name_en: Chiou Yan Shiun
         image: images/邱彥薰.jpg
@@ -54,4 +42,19 @@ member:
       - name: 倪世樺
         name_en: Ni Shih Hua
         image: images/倪世樺.jpg
+      - name: 莊弘翊
+        name_en: 
+        image: images/莊弘翊.jpg
+      - name: 蔡丞幃​
+        name_en: 
+        image: images/蔡丞幃​.jpg
+      - name: 謝鈞哲
+        name_en: Hsieh Chun Che
+        image: images/謝鈞哲.jpg
+      - name: 楊子儀
+        name_en: 
+        image: images/楊子儀.jpg
+      - name: 陳芊妤​
+        name_en: 
+        image: images/陳芊妤​.jpg
 ---
