@@ -46,7 +46,7 @@ member:
         name_en: Zhuang Hong Yi​
         image: images/莊弘翊.png
       - name: 蔡丞幃
-        name_en: 
+        name_en: Tsai Cheng Wei
         image: images/蔡丞幃.jpg
       - name: 謝鈞哲
         name_en: Hsieh Chun Che
@@ -55,6 +55,6 @@ member:
         name_en: Yang Tz Yi
         image: images/楊子儀.jpg
       - name: 陳芊妤​
-        name_en: 
+        name_en: Chen Chien Yu
         image: images/陳芊妤​.jpg
 ---
